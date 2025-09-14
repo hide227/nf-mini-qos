@@ -43,4 +43,4 @@ static void __exit nfmini_exit(void)
 
 module_init(nfmini_init);
 module_exit(nfmini_exit);
-MODULE_LICENSE("MIT");
+MODULE_LICENSE("GPL");
